@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/graph-visualizer/static/css/main.ad17dd86.chunk.css",
+    "main.js": "/graph-visualizer/static/js/main.27c683d8.chunk.js",
+    "main.js.map": "/graph-visualizer/static/js/main.27c683d8.chunk.js.map",
+    "runtime-main.js": "/graph-visualizer/static/js/runtime-main.251612e3.js",
+    "runtime-main.js.map": "/graph-visualizer/static/js/runtime-main.251612e3.js.map",
+    "static/js/2.52f8d0fe.chunk.js": "/graph-visualizer/static/js/2.52f8d0fe.chunk.js",
+    "static/js/2.52f8d0fe.chunk.js.map": "/graph-visualizer/static/js/2.52f8d0fe.chunk.js.map",
+    "static/js/3.2bd6374a.chunk.js": "/graph-visualizer/static/js/3.2bd6374a.chunk.js",
+    "static/js/3.2bd6374a.chunk.js.map": "/graph-visualizer/static/js/3.2bd6374a.chunk.js.map",
+    "index.html": "/graph-visualizer/index.html",
+    "static/css/main.ad17dd86.chunk.css.map": "/graph-visualizer/static/css/main.ad17dd86.chunk.css.map",
+    "static/js/2.52f8d0fe.chunk.js.LICENSE.txt": "/graph-visualizer/static/js/2.52f8d0fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.251612e3.js",
+    "static/js/2.52f8d0fe.chunk.js",
+    "static/css/main.ad17dd86.chunk.css",
+    "static/js/main.27c683d8.chunk.js"
+  ]
+}
